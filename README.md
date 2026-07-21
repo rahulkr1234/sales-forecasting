@@ -39,4 +39,5 @@ Future Improvements
 - Build an LSTM model
 - Compare forecasting methods
 
+Author
 Rahul Kumar
